@@ -1,0 +1,10 @@
+{
+  "name": "svg-study",
+  "version": "1.0.0",
+  "description": "for svg study",
+  "main": "index.js",
+  "repository": "https://Wildlifes@github.com/Wildlifes/svg-study.git",
+  "author": "Wildlifes <2632003786@qq.com>",
+  "license": "MIT",
+  "private": false
+}
