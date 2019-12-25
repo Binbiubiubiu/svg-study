@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <a href="https://www.baidu.com" target="_blank">
+        <rect width="120" height="30" y="0" x="0" rx="15" />
+        <text fill="white" text-anchor="middle" y="21" x="60">
+            SVG on MDN
+        </text>
+    </a>
+</svg>
